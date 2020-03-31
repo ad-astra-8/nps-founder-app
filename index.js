@@ -1,4 +1,4 @@
-'use strict';
+ 'use strict';
 
 const apiKey = 'wcxMDpjOqk6EvOxjYFdpdoP7o0GFd5bko8M5mkds';
 
